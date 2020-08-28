@@ -3,6 +3,7 @@ class EmailAddressParser
   
   def initialize
     @parse = parse
+  end
   
 end
   
