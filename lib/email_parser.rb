@@ -5,7 +5,7 @@ class EmailAddressParser
     @email = emails
   end
   def parse
-    email_array = name.split()
+    email_array = @email.split()
   
 end
   
