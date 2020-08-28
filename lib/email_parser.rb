@@ -1,11 +1,8 @@
-require 'pry'
-
 class EmailAddressParser
   attr_accessor :email
   
   def initialize(parser)
     @parse = parser
-    binding.pry
   end
   
 end
