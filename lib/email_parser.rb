@@ -10,6 +10,7 @@ class EmailAddressParser
     email_array
   end
   
+  
 end
   
   # Build a class EmailAddressParser that accepts a string of unformatted 
