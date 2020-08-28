@@ -5,7 +5,7 @@ class EmailAddressParser
     @email = emails
   end
   def parse
-    
+    email_array = ()
   
 end
   
